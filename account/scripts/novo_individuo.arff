@@ -1,0 +1,12 @@
+@relation alzheimer 
+
+@attribute doente {SIM, NAO} 
+@attribute ca1_right real 
+@attribute ca1_left real 
+@attribute ca2_ca3_right real
+@attribute ca2_ca3_left real 
+@attribute subic_right real 
+@attribute subic_left real 
+
+@data 
+SIM,0.76037,0.5442,0.051692999999999996,0.051692999999999996,0.15037999999999999,0.1705
